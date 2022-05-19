@@ -16,6 +16,8 @@
       - [JavaFX context exchange](https://github.com/TBMiguel/Programming-I-II-III/tree/main/TrocaContexto)
       - [Builder Pattern with Hibernate ORM and Java Web](https://github.com/TBMiguel/Programming-I-II-III/tree/main/Builder-Java)
 
-- ✨ Tecnologies:
 ---
+
+- ✨ Tecnologies:
+
 <img src="https://icons-for-free.com/iconfiles/png/512/adonisjs-1324440116642911008.png" width="50px" height="50px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width="50px" height="50px">
