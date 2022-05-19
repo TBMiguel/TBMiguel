@@ -9,12 +9,12 @@
    - [PHP](https://github.com/TBMiguel/DevApps/tree/main/ToDoList)
 
    - [JS, Node & TypeScript]
-      [Scraping](https://github.com/TBMiguel/Scraping-JS)
-      [AdoniJS](https://github.com/TBMiguel/atividade_framework)
+      - [Scraping](https://github.com/TBMiguel/Scraping-JS)
+      - [AdoniJS](https://github.com/TBMiguel/atividade_framework)
       
    - [Java](https://github.com/TBMiguel/Programming-I-II-III)
-      ° [Parallel Programming](https://github.com/TBMiguel/Programming-I-II-III/tree/main/PilhaJava)
-      ° [JavaFX context exchange](https://github.com/TBMiguel/Programming-I-II-III/tree/main/TrocaContexto)
-      ° [Builder Pattern with Hibernate ORM and Java Web](https://github.com/TBMiguel/Programming-I-II-III/tree/main/Builder-Java)
+      - [Parallel Programming](https://github.com/TBMiguel/Programming-I-II-III/tree/main/PilhaJava)
+      - [JavaFX context exchange](https://github.com/TBMiguel/Programming-I-II-III/tree/main/TrocaContexto)
+      - [Builder Pattern with Hibernate ORM and Java Web](https://github.com/TBMiguel/Programming-I-II-III/tree/main/Builder-Java)
 
 - ✨ Tecnologies:
