@@ -9,7 +9,7 @@
 
    - **JS, Node & TypeScript**
       - [Scraping](https://github.com/TBMiguel/Scraping-JS)
-      - [AdoniJS](https://github.com/TBMiguel/atividade_framework)
+      - [AdonisJS](https://github.com/TBMiguel/atividade_framework)
       
    - [Java](https://github.com/TBMiguel/Programming-I-II-III)
       - [Parallel Programming](https://github.com/TBMiguel/Programming-I-II-III/tree/main/PilhaJava)
