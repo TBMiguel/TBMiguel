@@ -16,6 +16,10 @@
       - [JavaFX context exchange](https://github.com/TBMiguel/Programming-I-II-III/tree/main/TrocaContexto)
       - [Builder Pattern with Hibernate ORM and Java Web](https://github.com/TBMiguel/Programming-I-II-III/tree/main/Builder-Java)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbmiguel&layout=compact&theme=tokyonight)](https://github.com/tbmiguel/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbmiguel&show_icons=true&theme=dracula)
+
 ---
 
 - ✨ Tecnologies:
