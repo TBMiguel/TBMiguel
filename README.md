@@ -1,9 +1,11 @@
-<h1 align="center"> Hi there!! 👋 My name is Miguel, i'm a Systems Analyst graduated from Unicesumar.</h1>
+<h1 align="center"> Olá!! Me chamo Miguel.</h1>
+<h3>Sobre mim: </h3>
 
-- 🔭 I’m currently working on a mobile application for college completion.
-- 🌱 I’m currently learning Typescript with AdonisJS framework.
+- 🔭 Estou no último período da faculdade.
+- 🔭 Trabalhando atualmente em uma aplicação mobile para conclusão de curso.
+- 🔭 Estou aprendendo typescript com o framework do AdonisJS.
 
-- 👨‍💻 What I have learned: Some projects that I had experience
+- 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
    - **PHP** 
       - [TO DO LIST](https://github.com/TBMiguel/DevApps/tree/main/ToDoList)
 
@@ -19,9 +21,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbmiguel&layout=compact&theme=tokyonight)](https://github.com/tbmiguel/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbmiguel&show_icons=true&theme=tokyonight)
-
----
-
-- ✨ Tecnologies:
-
-<img src="https://icons-for-free.com/iconfiles/png/512/adonisjs-1324440116642911008.png" width="50px" height="50px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50px" height="50px"> <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width="50px" height="50px">
