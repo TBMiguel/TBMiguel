@@ -7,6 +7,7 @@
 
 - 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
    - **PHP** 
+      - [QRCode Generator](https://github.com/TBMiguel/QRCodeGenerator)
       - [TO DO LIST](https://github.com/TBMiguel/DevApps/tree/main/ToDoList)
 
    - **JS, Node & TypeScript**
