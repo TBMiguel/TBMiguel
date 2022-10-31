@@ -9,6 +9,7 @@
    - **PHP** 
       - [QRCode Generator](https://github.com/TBMiguel/QRCodeGenerator)
       - [TO DO LIST](https://github.com/TBMiguel/DevApps/tree/main/ToDoList)
+      - [CRUD Livewire Movie Recommendation](https://github.com/TBMiguel/MovieRecommendation)
 
    - **JS, Node & TypeScript**
       - [Scraping](https://github.com/TBMiguel/Scraping-JS)
