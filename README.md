@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=TBMiguel)
 <h3>Sobre mim: </h3>
 
-- 🔭 Estou no último período da faculdade.
-- 🔭 Trabalhando atualmente em uma aplicação mobile para conclusão de curso.
-- 🔭 Estou aprendendo typescript com o framework do AdonisJS.
+- 🔭 Sou formado em Análise e Desenvolvimento de sistemas.
+- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade
+- 🔭 Atualmente trabalho com PHP com Laravel e Livewire
 
 - 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
    - **PHP** 
