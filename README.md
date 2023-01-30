@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=TBMiguel)
 <h3>Sobre mim: </h3>
 
-- 🔭 Sou formado em Análise e Desenvolvimento de sistemas.
-- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas.
+- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade.
 - 🔭 Atualmente trabalho com PHP com Laravel e Livewire
 
 - 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
