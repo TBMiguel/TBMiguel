@@ -4,8 +4,8 @@
 <h3>Sobre mim: </h3>
 
 - 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Desenvolvimento de Aplicativos Mobile.
-- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade.
-- 🔭 Atualmente trabalho com PHP com Laravel e Livewire
+- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade e aprendendo Kotlin, swift e Flutter.
+- 🔭 Atualmente trabalho com PHP com Laravel e Livewire (Tall stack)
 
 - 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
    - **PHP** 
