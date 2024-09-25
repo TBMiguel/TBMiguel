@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=TBMiguel)
 <h3>Sobre mim: </h3>
 
-- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Desenvolvimento de Aplicativos Mobile.
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Desenvolvimento de Aplicações Móveis.
 - 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade e aprendendo Kotlin, swift e Flutter.
 - 🔭 Atualmente trabalho com PHP com Laravel e Livewire (Tall stack)
 
@@ -12,6 +12,7 @@
       - [QRCode Generator](https://github.com/TBMiguel/QRCodeGenerator)
       - [TO DO LIST](https://github.com/TBMiguel/DevApps/tree/main/ToDoList)
       - [CRUD Livewire Movie Recommendation](https://github.com/TBMiguel/MovieRecommendation)
+      - [BACK-END API POST CRUD](https://github.com/TBMiguel/backend_crud_posts)
 
    - **JS, Node & TypeScript**
       - [Scraping](https://github.com/TBMiguel/Scraping-JS)
