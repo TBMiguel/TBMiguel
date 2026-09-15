@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=TBMiguel)
 <h3>Sobre mim: </h3>
 
-- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduando em Desenvolvimento de Aplicações Móveis.
-- 🔭 Estou trabalhando em uma aplicação pessoal que fiz para conclusão de grau na faculdade e aprendendo Kotlin, swift e Flutter.
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Desenvolvimento de Aplicações Móveis.
+- 🔭 Estou trabalhando em uma aplicação pessoal de Planning Poker
 - 🔭 Atualmente trabalho com PHP com Laravel e Livewire (Tall stack)
 
 - 👨‍💻 O que eu aprendi: alguns projetos em que já trabalhei:
